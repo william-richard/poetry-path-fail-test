@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-"""
-Terraform Automation CLI for IndigoAg
-"""
-
 from setuptools import find_namespace_packages, setup  # type: ignore
 
 setup(
