@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from setuptools import find_namespace_packages, setup  # type: ignore
+from setuptools import find_namespace_packages, setup
 
 setup(
     name="a",
